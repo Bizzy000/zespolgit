@@ -24,4 +24,4 @@ realizowane w ramach zajęć.
 ## Materiały
 - [UKOS] — (./bash.md)
 - [WARP] — (./git.md)
-- PRG1 — [wstaw właściwy link]
+- [PRG] — (./prg1.md)
