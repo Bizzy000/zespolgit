@@ -1,4 +1,5 @@
 Polecenie	Przykład użycia	Co opisać
+## ebe ebe
 git clone	git clone URL	Pobranie repozytorium i utworzenie lokalnego katalogu.
 git status	git status	Sprawdzenie gałęzi oraz plików zmienionych i przygotowanych.
 git add	git add docs/warp/git.md	Dodanie konkretnego pliku do obszaru staging.
